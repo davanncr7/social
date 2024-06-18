@@ -108,6 +108,7 @@ export default function Home() {
             </p>
           </a>
         </div>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-7MF2JDQDYN"></script>
       </main>
   );
 }
